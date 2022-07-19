@@ -4,4 +4,4 @@
 - I’m currently working on [Uber Eats app](https://apps.apple.com/us/app/uber-eats-food-delivery/id1058959277).
 - I’m currently learning RxSwift, Needle, RIBs, Snapshot Testing.
 
-You can reach out to me by darkhonbek.interview[at]gmail.com
+You can reach out to me via darkhonbek.interview[at]gmail.com
